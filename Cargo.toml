@@ -12,4 +12,4 @@ regex = "1.10.4"
 reqwest = { version = "0.12.4", features = ["json"] }
 tempfile = "3.10.1"
 which = "6.0.1"
-printpdf = "0.8.2" # PDF writing library
+printpdf = "0.4.0"
