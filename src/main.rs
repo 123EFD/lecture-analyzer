@@ -1,9 +1,9 @@
-use clap::{Parser, Subcommand};
 use anyhow::Result;
+use clap::{Parser, Subcommand};
 
-mod pdf;
 mod analyze;
 mod export;
+mod pdf;
 mod util;
 
 /// Lecture Note Analyzer
